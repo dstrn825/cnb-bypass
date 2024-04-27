@@ -45,8 +45,3 @@ httpx==0.23.0
 onnxruntime-gpu
 torchcrepe==0.0.20
 av
-cubinlinker-cu11
-cupy-cuda11x
-ptxcompiler-cu11
-keras-core
-wurlitzer
