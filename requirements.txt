@@ -7,7 +7,7 @@ numba==0.57
 numpy==1.23.5
 scipy==1.9.3
 librosa==0.9.1
-llvmlite==0.39.0
+llvmlite==0.40.0dev0
 fairseq==0.12.2
 faiss-cpu==1.7.3
 Cython
